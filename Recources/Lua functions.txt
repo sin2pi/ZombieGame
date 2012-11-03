@@ -1,0 +1,53 @@
+To activate the prompt, press the key "BACKQUOTE"
+
+List of current functions:
+
+--- Player Related functions ---
+
+- PlayerPosX(int x) 
+
+- PlayerPosY(int y) 
+
+- PlayerXvel(int xVel) 
+
+- PlayerYvel(int yVel) 
+
+- PlayerHealth(int health) 
+
+- PlayerScale(int scaleFactor) 
+
+- PlayerLives(int lives) 
+
+- BulletAmount(int amount) 
+
+- BombAmount(int amount) 
+
+--- Enemy related functions ---
+
+- EnemyPosX(int id,int x) 
+
+- EnemyPosY(int id,int y) 
+
+- EnemyHealth(int health) 
+
+- EnemyXvel(int xVel)
+
+- EnemyYvel(int yVel)
+
+- EnemyScale(int scaleFator)
+
+- SetAI(int id,int behavior)
+
+--- Random Function ----
+
+- LoadMusic(char file)
+
+- LoadScript(char file)
+
+
+
+
+
+
+
+

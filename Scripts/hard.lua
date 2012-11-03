@@ -1,0 +1,6 @@
+EnemyHealth(1,15)
+EnemyHealth(11,15)
+EnemyHealth(2,70)
+EnemyHealth(3,140)
+BulletAmount(250)
+BombAmount(5)

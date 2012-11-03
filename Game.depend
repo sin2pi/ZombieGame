@@ -1,0 +1,68 @@
+# depslib dependency file v1.0
+1346361676 source:c:\users\martin\desktop\game - tds\ccollision.cpp
+	"cCollision.h"
+
+1346361676 c:\users\martin\desktop\game - tds\ccollision.h
+	<SDL/SDL.h>
+
+1351201186 source:c:\users\martin\desktop\game - tds\cplayer.cpp
+	"cPlayer.h"
+
+1346368025 c:\users\martin\desktop\game - tds\cplayer.h
+	<SDL/SDL.h>
+	<SDL_rotozoom.h>
+	<lua.hpp>
+	"Globals.h"
+	"cCollision.h"
+
+1345069600 source:c:\users\martin\desktop\game - tds\cbullet.cpp
+	"cBullet.h"
+
+1344788391 c:\users\martin\desktop\game - tds\cbullet.h
+	<SDL/SDL.h>
+	<vector>
+	<cmath>
+	"cCollision.h"
+
+1349717214 source:c:\users\martin\desktop\game - tds\main.cpp
+	<lauxlib.h>
+	<lualib.h>
+	<SDL.h>
+	<SDL/SDL_ttf.h>
+	<SDL_rotozoom.h>
+	<SDL_mixer.h>
+	<vector>
+	<lua.hpp>
+	<fstream>
+	<math.h>
+	"Globals.h"
+	"cPlayer.h"
+	"cCollision.h"
+	"cBullet.h"
+	"cEnemy.h"
+	"Lua_Functions.h"
+	"LuaPrompt.h"
+
+1344787857 c:\users\martin\desktop\game - tds\globals.h
+
+1346368112 source:c:\users\martin\desktop\game - tds\cenemy.cpp
+	"cEnemy.h"
+
+1346368056 c:\users\martin\desktop\game - tds\cenemy.h
+	<SDL.h>
+	<math.h>
+	<SDL_rotozoom.h>
+
+1346360260 source:c:\users\martin\desktop\game - tds\luaprompt.cpp
+	"LuaPrompt.h"
+	<lua.hpp>
+	<SDL.h>
+	<SDL_ttf.h>
+
+1346081303 c:\users\martin\desktop\game - tds\luaprompt.h
+	<SDL.h>
+	<string>
+
+1346790815 c:\users\martin\desktop\game - tds\lua_functions.h
+	<SDL_mixer.h>
+
